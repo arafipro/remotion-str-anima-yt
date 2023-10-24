@@ -1,12 +1,12 @@
 import { Composition } from "remotion";
-import { MyComposition } from "./Composition";
+import { FadeIn } from "./FadeIn";
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
       <Composition
-        id="MyComp"
-        component={MyComposition}
+        id="FadeIn"
+        component={FadeIn}
         durationInFrames={60}
         fps={30}
         width={1280}
