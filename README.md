@@ -1,4 +1,8 @@
-# Remotionを使ってアニメーションする文字列の動画を作成する（初級編2）
+# Remotionで「Hello, World」が飛び出す動画を作ってみたで動画作成を試してみた
+
+## Remotion
+
+https://www.remotion.dev/
 
 ## Zenn
 
