@@ -1,4 +1,4 @@
-# Remotionで「Hello, World」が飛び出す動画を作ってみたで動画作成を試してみた
+# Remotionで「Hello, World」が飛び出す動画を作ってみた
 
 ## Remotion
 
